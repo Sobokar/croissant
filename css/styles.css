@@ -1,6 +1,7 @@
 body {
   max-width: 800px;
   background-color: hsl(47, 80%, 80%);
+  margin: 0 auto;
 }
 h1 {
   text-align: center;
